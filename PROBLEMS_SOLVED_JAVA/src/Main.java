@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        PROBLEM_1 problem1 = new PROBLEM_1();
-        problem1.mergeAlternately("ab", "pqrrr");
+        PROBLEM_2 problem2 = new PROBLEM_2();
+        problem2.gcdOfStrings("ABABAB", "ABAB");
     }
 }
