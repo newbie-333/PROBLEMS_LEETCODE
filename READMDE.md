@@ -43,3 +43,5 @@ word1 and word2 consist of lowercase English letters.
 2. We can see also that problem says that if one of the string is longer we will have to append the aditional letters to the end of the merged string.
 3. before that we need to merge the letters of each string (letter1 String1 + letter1 String2), we will try the class String builder with the metod appends, i think that will work.
 
+***SOLVED***
+
